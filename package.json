@@ -1,0 +1,19 @@
+{
+  "name": "crockford-quiz-es6",
+  "version": "1.0.0",
+  "description": "This is the quiz from the front end masters course. I am going to answer the questions in es6 syntax",
+  "main": "functions-spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.2.0",
+    "sinon": "^1.16.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1"
+  }
+}
